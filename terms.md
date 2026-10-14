@@ -1,8 +1,8 @@
 # Lumi — Terms of Use
 
-**Last Updated: \[Oct. 14th, 2026\]**
+**Last Updated: Oct. 14th, 2026**
 
-These Terms of Use ("Terms") govern your use of Lumi, also known as Nova (the "Bot"), the website at https://luminova.moe, and any related services we provide (together, the "Service").
+These Terms of Use ("Terms") govern your use of Lumi, also known as Nova (the "Bot"), the [website](https://luminova.moe), and any related services we provide (together, the "Service").
 
 By adding the Bot to a Discord server, or by using any of its commands or features, you agree to these Terms. If you do not agree, do not use the Service.
 
@@ -80,13 +80,13 @@ Supporting the project does not exempt you from these Terms, and does not entitl
 
 ## Privacy
 
-Our Privacy Policy (https://LuminousNova.github.io/privacy) explains what data the Service collects, how it is used, how long it is kept, and what rights you have over it.
+Our [Privacy Policy](https://LuminousNova.github.io/privacy) explains what data the Service collects, how it is used, how long it is kept, and what rights you have over it.
 
 The Privacy Policy is a statement of our practices rather than a contract you agree to. It is provided separately so that you can read it on its own terms, and we encourage you to do so.
 
 ## Termination
 
-**By you.** You may stop using the Service at any time. A server administrator may remove the Bot from a Server at any time. To request deletion of your data, or a copy of it, contact us at luminousmanagement.help@gmail.com.
+**By you.** You may stop using the Service at any time. A server administrator may remove the Bot from a Server at any time. To request deletion of your data, or a copy of it, contact us at `luminousmanagement.help@gmail.com`.
 
 **By us.** We may suspend or terminate your access to the Service, or remove the Bot from a Server, with or without notice, if:
 
@@ -117,11 +117,11 @@ You agree to indemnify and hold us harmless from any claims, damages, losses, li
 
 ## Disputes
 
-Most problems can be sorted out directly. Before starting any formal proceeding, you agree to contact us at luminousmanagement.help@gmail.com and give us a reasonable opportunity to resolve the issue.
+Most problems can be sorted out directly. Before starting any formal proceeding, you agree to contact us at `luminousmanagement.help@gmail.com` and give us a reasonable opportunity to resolve the issue.
 
 ## Changes to These Terms
 
-We may update these Terms from time to time. When we do, we will revise the "Last Updated" date above and post the current version at https://LuminousNova.github.io/terms. Where changes are material, we will make a reasonable effort to give notice through the Service or our Discord support server.
+We may update these Terms from time to time. When we do, we will revise the "Last Updated" date above and post the current version [here](https://LuminousNova.github.io/terms). Where changes are material, we will make a reasonable effort to give notice through the Service or our Discord support server.
 
 Continuing to use the Service after changes take effect means you accept the revised Terms. If you do not accept them, stop using the Service and remove the Bot from your Servers.
 
@@ -137,6 +137,6 @@ These Terms, together with the Privacy Policy, are the entire agreement between 
 
 ## Contact
 
-Questions about these Terms, data requests, and deletion requests: luminousmanagement.help@gmail.com
+Questions about these Terms, data requests, and deletion requests: `luminousmanagement.help@gmail.com`
 
-Support server: https://discord.com/invite/luminous-nova-support-687829489795072010
+[**Support server**](https://discord.com/invite/luminous-nova-support-687829489795072010)
