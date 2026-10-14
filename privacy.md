@@ -26,7 +26,7 @@ To provide functionality, we process some data that is never stored. This includ
 Any and all Discord API Data stored on our systems, including items mentioned under "**What Do We Store?**", are encrypted at rest. Beyond this, we take additional measures to ensure that any and all backups of our systems are also encrypted.
 
 ## Requesting Deletion
-You can request a copy or deletion of your data by contacting us at **luminousmanagement.help@gmail.com** & sending a direct message to `@Naiyoko` via Discord, notifying us of your request. We may ask you to verify your identity depending on the data you are requesting, or the data you are requesting deletion of. Failing verification of your identity, we reserve the right to refuse data deletion or a copy of your data.
+You can request a copy or deletion of your data by contacting us at `**luminousmanagement.help@gmail.com**` & sending a direct message to `@Naiyoko` via Discord, notifying us of your request. We may ask you to verify your identity depending on the data you are requesting, or the data you are requesting deletion of. Failing verification of your identity, we reserve the right to refuse data deletion or a copy of your data.
 
 ## Data Sharing Policies
 No data we collect is ever sold or shared with any third parties. Data is used solely to provide Nova's features, as described above. We may share data when we are legally required to do so, such as by a court order or other valid legal process.
